@@ -7,7 +7,7 @@ Full Stack Software Developer
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
 * 📫 You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
-* 🚀  I'm currently working on [a MovieDB App](http://https://github.com/nicopicchio/auth-challenge/tree/freedom)
+* 🚀  I'm currently working on the [team development module](https://github.com/boolean-uk/team-dev-client)
 * 🧠  I'm learning ReactJS, ExpressJS and Prisma
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡  I used to work as an ambulance EMT and Critical Care Nurse Specialist, I love photography and cycling
