@@ -6,11 +6,11 @@ Full Stack Software Developer
 
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
-* 📫 You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
+* 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  I'm currently working on the [team development module](https://github.com/boolean-uk/team-dev-client)
 * 🧠  I'm learning ReactJS, ExpressJS and Prisma
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
-* ⚡  I used to work as an ambulance EMT and Critical Care Nurse Specialist, I love photography and cycling
+* ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
 
 <a href="https://www.github.com/nicopicchio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nicopicchio?logo=github&style=for-the-badge&color=0891b2&labelColor=21262d" /></a>
