@@ -7,7 +7,7 @@ Full Stack Software Developer
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
-* 🚀  I'm currently working on the [front end](https://github.com/nicopicchio/solo-project-client) and [back end](https://github.com/nicopicchio/solo-project-server) of my final solo project with Boolean UK!
+* 🚀  I'm currently working on the [front end](https://github.com/nicopicchio/solo-project-client) and [back end](https://github.com/nicopicchio/solo-project-server) of my final solo project with [Boolean UK](https://boolean.co.uk/)!
 * 🧠  I'm learning ReactJS, ExpressJS and Prisma
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
