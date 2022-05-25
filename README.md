@@ -13,9 +13,6 @@ Full Stack Software Developer
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
 
-<a href="https://www.github.com/nicopicchio" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nicopicchio?logo=github&style=for-the-badge&color=0891b2&labelColor=21262d" /></a>
-
 ### Skills
 
 <p align="left">
