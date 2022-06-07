@@ -8,7 +8,7 @@ Full Stack Software Developer
 * 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
 * 🌐  Visit my [website](https://nicotech.dev/)
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
-* 🚀  This is my last project [The Continental Network](http://thecontinentalnetwork.netlify.app)
+* 🚀  Check out my last project => [The Continental Network](http://thecontinentalnetwork.netlify.app)
 * 🧠  I'm currently learning Vue and Python
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
