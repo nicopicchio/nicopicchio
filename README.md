@@ -9,7 +9,7 @@ Full Stack Software Developer
 * :globe_with_meridians:  Visit my [website](https://nicotech.dev/)
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  I'm currently working on the [front end](https://github.com/nicopicchio/solo-project-client) and [back end](https://github.com/nicopicchio/solo-project-server) of my final solo project with [Boolean UK](https://boolean.co.uk/)!
-* 🧠  I'm learning ReactJS, ExpressJS and Prisma
+* 🧠  I'm currently learning Vue and Python
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
 
@@ -23,6 +23,7 @@ Full Stack Software Developer
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
