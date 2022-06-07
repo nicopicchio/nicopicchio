@@ -6,9 +6,9 @@ Full Stack Software Developer
 
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
-* :globe_with_meridians:  Visit my [website](https://nicotech.dev/)
+* 🌐  Visit my [website](https://nicotech.dev/)
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
-* 🚀  I'm currently working on the [front end](https://github.com/nicopicchio/solo-project-client) and [back end](https://github.com/nicopicchio/solo-project-server) of my final solo project with [Boolean UK](https://boolean.co.uk/)!
+* 🚀  This is my last project [The Continental Network](http://thecontinentalnetwork.netlify.app)
 * 🧠  I'm currently learning Vue and Python
 * 🤝  I'm open to collaborating on any project, particularly if related to the medical field
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
