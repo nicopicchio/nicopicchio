@@ -5,7 +5,6 @@ Full Stack Software Developer
 -----------------------------
 
 * 🌍  I'm based in the UK
-* 🖥️  See my portfolio at [Troopl](http://troopl.com/nico)
 * 🌐  Visit my [website](https://nicotech.dev/)
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  Check out my last project => [The Continental Network](http://thecontinentalnetwork.netlify.app)
