@@ -10,7 +10,7 @@ Full Stack Software Developer
 * 📫  You can contact me at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  Check out my last project => [The Continental Network](http://thecontinentalnetwork.netlify.app)
 * 🧠  I'm currently learning Vue and Python
-* 🤝  I'm open to collaborating on any project, particularly if related to the medical field
+* 🤝  I'm open to collaborating on any project, particularly if related to sports and medicine
 * ⚡   I have a background in Intensive Care Medicine, I love photography and cycling
 
 ### Dev Skills
