@@ -7,7 +7,7 @@ Full Stack Software Developer
 * 🌍  Based in the UK
 * 🌐  My [website](https://nicotech.dev/)
 * 📫  Hit me up at [nico@nicotech.dev](mailto:nico@nicotech.dev)
-* 🚀  My last project => [The Continental Network](http://thecontinentalnetwork.netlify.app)
+* 🚀  My last projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Vue, Python and MongoDB
 * 🤝  Open to collaborating on any project, particularly if related to sports and medicine
 * ⚡   Background in Intensive Care Medicine, I love photography and cycling
