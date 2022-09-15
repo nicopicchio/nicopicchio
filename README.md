@@ -5,7 +5,6 @@ Full Stack Developer at the [NHS](https://www.nhs.uk/)
 -------------------------------
 
 * 🌍  Based in the UK
-* 🌐  My [website](https://nicotech.dev/)
 * 📫  Hit me up at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  My last projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Vue, Python and MongoDB
