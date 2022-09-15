@@ -1,7 +1,7 @@
 Hi 👋 My name is Nico
 =====================
 
-Full Stack Software Developer
+Full Stack Developer at NHS
 -----------------------------
 
 * 🌍  Based in the UK
