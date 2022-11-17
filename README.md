@@ -42,7 +42,7 @@ Full Stack Developer at [NHS](https://www.nhs.uk/)
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/nicolapicchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>    <a href="http://www.instagram.com/nico.picchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/nicopicchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>    <a href="http://www.instagram.com/nico.picchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> </p>
 
 <b>My GitHub Stats</b>
 
