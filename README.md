@@ -40,10 +40,6 @@ Full Stack Developer at [NHS](https://www.nhs.uk/)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/nicopicchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>    <a href="http://www.instagram.com/nico.picchio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> </p>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nicopicchio"><img src="https://github-readme-stats.vercel.app/api?username=nicopicchio&show_icons=true&hide=&count_private=true&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&show_icons=true" alt="nicopicchio's GitHub stats" /></a>
