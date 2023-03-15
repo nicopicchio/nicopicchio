@@ -7,7 +7,7 @@
 * 🚀  My latest personal projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Python and C#/.NET
 * 🤝  Open to collabs
-* ⚡  Background in Intensive Care Medicine, I love photography and endurance sports
+* 🏥  Background in Intensive Care Medicine
 
 ### Dev Skills
 
