@@ -4,7 +4,7 @@ Hello, World! 👋 My name is Nico
 I am a Full Stack Developer working at the [NHS](https://www.nhs.uk/)
 -------------------------------
 
-* 🌍  Based in the UK
+* 🌍  Based in the UK 🇬🇧
 * 📫  Hit me up at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  My last projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Python and C#/.NET
