@@ -1,4 +1,4 @@
-Hi 👋 My name is Nico
+Hello, World! 👋 My name is Nico
 =====================
 
 Full Stack Developer at [NHS](https://www.nhs.uk/)
@@ -8,8 +8,8 @@ Full Stack Developer at [NHS](https://www.nhs.uk/)
 * 📫  Hit me up at [nico@nicotech.dev](mailto:nico@nicotech.dev)
 * 🚀  My last projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Python and C#/.NET
-* 🤝  Open to collaborating on any project, particularly if related to sports and medicine
-* ⚡   Background in Intensive Care Medicine, I love photography and cycling
+* 🤝  Open to collabs
+* ⚡  Background in Intensive Care Medicine, I love photography and endurance sports
 
 ### Dev Skills
 
