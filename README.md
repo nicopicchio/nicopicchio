@@ -1,7 +1,7 @@
 Hello, World! 👋 My name is Nico
 =====================
 
-Full Stack Developer at [NHS](https://www.nhs.uk/)
+I am a Full Stack Developer working at the [NHS](https://www.nhs.uk/)
 -------------------------------
 
 * 🌍  Based in the UK
