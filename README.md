@@ -1,5 +1,4 @@
 # Hello, World! 👋 My name is Nico
-=====================
 
 ## I am a Full Stack Developer working at the [NHS](https://www.nhs.uk/)
 -------------------------------
