@@ -4,7 +4,6 @@
 
 * 🌍  Based in the UK
 * 📫  Contact me [here](mailto:nico@nicotech.dev)
-* 🚀  My latest personal projects => [The Continental Network](https://thecontinentalnetwork.netlify.app) and [Carbon Footprint Checker](https://carbonfootprintchecker.netlify.app)
 * 🧠  Currently learning Python and C#/.NET
 * 🤝  Open to collabs
 * 🏥  Background in Intensive Care Medicine
