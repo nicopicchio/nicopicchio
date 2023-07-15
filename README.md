@@ -1,6 +1,6 @@
 # Hello, World! 👋 My name is Nico 👨🏻‍💻
 
-### I am a Full Stack Developer working at the [NHS](https://www.nhs.uk/)
+### I am a Software Developer at the [Department for Business and Trade](https://www.gov.uk/government/organisations/department-for-business-and-trade)
 
 * 🌍  Based in the UK
 * 📫  Contact me [here](mailto:nico@nicotech.dev)
@@ -24,9 +24,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3521296-2944715.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3521296-2944715.png" alt="azure" width="40" height="40"/> </a>
 </p>
 
 ### Design Skills
