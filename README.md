@@ -4,7 +4,7 @@
 
 * 🌍  Based in the UK
 * 📫  Contact me [here](mailto:nico@nicotech.dev)
-* 🧠  Currently learning Python and C#/.NET
+* 🧠  Currently learning Python and Django
 * 🤝  Open to collabs
 * 🏥  Background in Intensive Care Medicine
 
