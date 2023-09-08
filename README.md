@@ -24,13 +24,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-### Design Skills
-<p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="40" height="40" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
-</p>
-
 ### My Stats
 
 <a href="http://www.github.com/nicopicchio"><img src="https://github-readme-stats.vercel.app/api?username=nicopicchio&show_icons=true&hide=&count_private=true&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&show_icons=true" alt="nicopicchio's GitHub stats" /></a>
