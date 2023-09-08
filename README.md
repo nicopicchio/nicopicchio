@@ -2,11 +2,9 @@
 
 ### I am a Software Developer at the [Department for Business and Trade](https://www.gov.uk/government/organisations/department-for-business-and-trade)
 
-* 🌍  Based in the UK
 * 📫  Contact me [here](mailto:nico@nicotech.dev)
 * 🧠  Currently learning Python and Django
 * 🤝  Open to collabs
-* 🏥  Background in Intensive Care Medicine
 
 ### Dev Skills
 
