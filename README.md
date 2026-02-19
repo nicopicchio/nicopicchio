@@ -22,6 +22,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-### My Stats
+[### My Stats]: #
 
-<a href="https://github.com/nicopicchio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicchio&langs_count=10&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Top Languages" /></a>
+[<a href="https://github.com/nicopicchio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicchio&langs_count=10&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Top Languages" /></a>]: #
